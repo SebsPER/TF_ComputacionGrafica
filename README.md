@@ -3,11 +3,11 @@ Repositorio del trabajo final del curso de Computacion Grafica de la Universidad
 
 Integrantes:
 
-Bill Chavez - U20171C042
+Bill Brandon Chavez Arias - U20171C042
 
-Sebastian Contreras -
+Sebastian Wilder Contreras Rosas - U20171d516
 
-Sebastian Peralta - U201816030
+Sebastian Fernando Peralta Ireijo- U201816030
 
 # Atencion
 Solo hemos agregado en el .zip los includes a los cuales les realizamos alguna modificacion con respecto a como los vimos en clase. En el respositorio estaran todas las librerias.
