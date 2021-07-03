@@ -10,4 +10,4 @@ Sebastian Wilder Contreras Rosas - U20171d516
 Sebastian Fernando Peralta Ireijo- U201816030
 
 # Atencion
-Solo hemos agregado en el .zip los includes a los cuales les realizamos alguna modificacion con respecto a como los vimos en clase. En el respositorio estaran todas las librerias.
+Al archivo shader.hpp se le agrego una porcion de codigo necesaria para nuestro proyecto. Tambien el figures3.h vale mencionar que tiene un nombre diferente a lo regular pero debería ser lo mismo que la ultima version del figures.h del repositorio de la clase.
